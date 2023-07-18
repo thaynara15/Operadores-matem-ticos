@@ -1,1 +1,1 @@
-# Operadores-matem-ticos
+# Operadores-matematicos
